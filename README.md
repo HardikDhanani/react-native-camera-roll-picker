@@ -17,6 +17,9 @@ $ npm install react-native-camera-roll-picker --save
 ```
 import CameraRollPicker from 'react-native-camera-roll-picker';
 ```
+## Upload image in IOS
+
+please use `path` key rather than uri for image upload to server
 
 ## Basic Usage
 ```js
